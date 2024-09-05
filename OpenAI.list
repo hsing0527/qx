@@ -33,4 +33,4 @@ host-keyword,openaicom-api,OpenAI
 host-suffix,launchdarkly.com,OpenAI
 host-suffix,segment.io,OpenAI
 host-suffix,googleapis.com,OpenAI
-host, api.statsig.com,OpenAI
+host,api.statsig.com,OpenAI
