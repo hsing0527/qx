@@ -1,30 +1,30 @@
 # > OpenAI
 # >> ChatGPT
-host-suffix,chatgpt.com
-host-suffix,chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.openai.com
 
 # >> OpenAI Challenge & SSO
-host-suffix,auth0.openai.com
-host,challenges.cloudflare.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN,challenges.cloudflare.com
 
 # >> OpenAI Related
-host-suffix,ai.com
-host-suffix,openai.com
-host-suffix,apps.openai.com
-host-suffix,sentry.io
-host-suffix,intercom.io
-host-suffix,identrust.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,apps.openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,identrust.com
 
 # >> OpenAI Static Files
-host-wildcard,*.oaistatic.com
-host-wildcard,*.oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
 # >> OpenAI CDN
-host-suffix,chat.openai.com.cdn.cloudflare.net
-host-suffix,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 
 # >> OpenAI Other
-host-suffix,challenges.cloudflare.com
-host-suffix,invoice.stripe.com
-host-suffix,stripe.com
-host-suffix,poe.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,poe.com
