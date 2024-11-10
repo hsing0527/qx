@@ -55,8 +55,6 @@ host-suffix,dcblivedazn.akamaized.net,Stream
 host-suffix,indazn.com,Stream
 host-suffix,indaznlab.com,Stream
 host-suffix,sentry.io,Stream
-host-suffix,deezer.com,Stream
-host-suffix,dzcdn.net,Stream
 host-suffix,disco-api.com,Stream
 host-suffix,discovery.com,Stream
 host-suffix,uplynk.com,Stream
